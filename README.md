@@ -3,12 +3,12 @@
 A mortgage calculator web app built with React to aid in the planning of morgages.
 ## User Stories
 
-Users can set purchase prices
-Users can set down payment
-Users can set repayment time
-Users can set interest rate
-Users see theirloan amount (purchase price - down payment)
-Users can see  the estimated amount they'll pay on a monthly basis
+Users can set purchase prices.\
+Users can set down payment.\
+Users can set repayment time.\
+Users can set interest rate.\
+Users see theirloan amount (purchase price - down payment).\
+Users can see  the estimated amount they'll pay on a monthly basis.\
 
 In the project directory, you can run:
 
