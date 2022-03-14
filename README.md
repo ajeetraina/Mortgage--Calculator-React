@@ -14,11 +14,11 @@ In the project directory, you can run:
 
 ### `Formula Used`
 
-Formula for mortgage payments: M = P[r(1+r)^n/((1+r)^n)-1)]
-M = the total monthly mortgage payment
-P = the principal loan amount(Purchase Price - Down Payment)
-r = your monthly interest rate
-n = number of payments over the loan’s lifetime.
+Formula for mortgage payments: M = P[r(1+r)^n/((1+r)^n)-1)].\
+M = the total monthly mortgage payment.\
+P = the principal loan amount(Purchase Price - Down Payment).\
+r = your monthly interest rate.\
+n = number of payments over the loan’s lifetime.\
 
 ### `npm start`
 
